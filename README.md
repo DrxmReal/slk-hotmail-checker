@@ -29,12 +29,12 @@ Liên hệ để mua key bản quyền!
 ---
 
 ## 👤 Dev & Hỗ trợ
-- **Dev:** [@Salako](https://discord.gg/aFS6NHEh4m)
+- **Dev:** [@Dr4m](https://discord.gg/aFS6NHEh4m)
 - **Discord Support:** [discord.gg/aFS6NHEh4m](https://discord.gg/aFS6NHEh4m)
 
 ---
 
-© 2024-{year} All rights reserved.
+© 2025-{year} All rights reserved.
 
 
 
